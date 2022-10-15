@@ -8,6 +8,8 @@ public class PlayerInput : MonoBehaviour
     private string input;
     private string spell = "fire";
 
+    public static string keyboardText = "";
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,11 +20,12 @@ public class PlayerInput : MonoBehaviour
     void Update()
     {
         if (Input.GetKey("enter")) {
-            if (input.Equals(spell)) {
+            if (string.Equals(input, spell)) {
                 Debug.Log("You casted fire.");
             }
             input = "";
         }
+        Debug.Log(input);
     }
 
     public void ReadStringInput(string s)
