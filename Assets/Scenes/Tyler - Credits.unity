@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 124109608}
   - component: {fileID: 124109611}
   m_Layer: 5
-  m_Name: Return
+  m_Name: Return Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 136605559}
   - component: {fileID: 136605558}
   m_Layer: 5
-  m_Name: Newton Chung
+  m_Name: Newton Chung Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -442,7 +442,7 @@ GameObject:
   - component: {fileID: 564803869}
   - component: {fileID: 564803868}
   m_Layer: 5
-  m_Name: Eric Lin
+  m_Name: Eric Lin Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -523,7 +523,7 @@ GameObject:
   - component: {fileID: 571720631}
   - component: {fileID: 571720630}
   m_Layer: 5
-  m_Name: Credits
+  m_Name: Credits Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -630,7 +630,7 @@ GameObject:
   - component: {fileID: 635628572}
   - component: {fileID: 635628571}
   m_Layer: 5
-  m_Name: Group Name
+  m_Name: Group Name Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -710,7 +710,7 @@ GameObject:
   - component: {fileID: 1277189360}
   - component: {fileID: 1277189359}
   m_Layer: 5
-  m_Name: Background
+  m_Name: Background Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -786,7 +786,7 @@ GameObject:
   - component: {fileID: 1476013159}
   - component: {fileID: 1476013158}
   m_Layer: 5
-  m_Name: Tyler Lee
+  m_Name: Tyler Lee Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -866,7 +866,7 @@ GameObject:
   - component: {fileID: 1476456490}
   - component: {fileID: 1476456489}
   m_Layer: 5
-  m_Name: Olivia Tsui
+  m_Name: Olivia Tsui Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1098,7 +1098,7 @@ GameObject:
   - component: {fileID: 1799406573}
   - component: {fileID: 1799406572}
   m_Layer: 5
-  m_Name: Pranav Nair
+  m_Name: Pranav Nair Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
