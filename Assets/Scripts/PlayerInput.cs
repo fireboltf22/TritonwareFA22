@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class PlayerInput : MonoBehaviour
 {
 
-    private string input = "";
+    private string input;
     public InputField clear;
     public GameObject pauseMenu;
     private string[] spells = {"fire", "ice", "water", "rock", "shock"};
@@ -15,7 +15,8 @@ public class PlayerInput : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Time.timeScale = 1;
+        input = "";
     }
 
     // Update is called once per frame
